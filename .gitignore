@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# production
+dist
+build
+public
+
+# misc
+tmp/
+.idea
+.DS_Store
+.env
+*.log
